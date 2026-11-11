@@ -2,7 +2,7 @@
 
 ## Reporting a vulnerability
 
-Please report security issues privately by email to **hello@obsydia.tech** with the subject line "Security". Do not open a public issue.
+Please report security issues privately by email to **security@obsydia.tech** with the subject line "Security". Do not open a public issue.
 
 Include what you found, the Core0 version or the URL affected, and the steps to reproduce it. We acknowledge every report within five working days and keep you informed until it is resolved.
 
